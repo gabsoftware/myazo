@@ -12,12 +12,12 @@ It can also function as a mere Gyazo client, uploading directly to Gyazo's serve
 
 ### Client
 
-* Python >= 3.8 (check with `python --version` or `python3 --version`)
+* Python >= 3.10 (check with `python --version` or `python3 --version`)
 
 The following OSes have off-the-shelf compatibility. You can add more back ends for missing systems or configurations.
 
 * GNU/Linux (presets for `gnome-screenshot`, `xfce4-screenshooter`, `spectacle`, `scrot` and `import` (ImageMagick))
-* macOS
+* macOS (requires giving Myazo permission to record the screen)
 * Windows 10 >= 1703 Creators Update (check with `winver` - Build >= 10.0.15063.251)
 
 ### Server
